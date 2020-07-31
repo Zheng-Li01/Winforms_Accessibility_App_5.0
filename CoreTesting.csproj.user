@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="CommonControl1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CommonControl2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ContainerControls.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DataControls.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DialogControls.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Main.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MenuForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Menu_Toolbars_controls.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PrintingControls.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RemainingControls.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ToolStripContainer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
