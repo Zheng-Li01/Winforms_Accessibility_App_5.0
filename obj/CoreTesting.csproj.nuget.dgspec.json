@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\v-olzhan\\Desktop\\5.0_CoreTesting\\5.0_CoreTesting\\5.0_CoreTesting\\5.0_CoreTesting\\5.0_CoreTesting\\CoreTesting.csproj": {}
+    "D:\\Winforms_App\\Winforms_Accessibility_App_5.0\\CoreTesting.csproj": {}
   },
   "projects": {
-    "C:\\Users\\v-olzhan\\Desktop\\5.0_CoreTesting\\5.0_CoreTesting\\5.0_CoreTesting\\5.0_CoreTesting\\5.0_CoreTesting\\CoreTesting.csproj": {
+    "D:\\Winforms_App\\Winforms_Accessibility_App_5.0\\CoreTesting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\v-olzhan\\Desktop\\5.0_CoreTesting\\5.0_CoreTesting\\5.0_CoreTesting\\5.0_CoreTesting\\5.0_CoreTesting\\CoreTesting.csproj",
+        "projectUniqueName": "D:\\Winforms_App\\Winforms_Accessibility_App_5.0\\CoreTesting.csproj",
         "projectName": "CoreTesting",
-        "projectPath": "C:\\Users\\v-olzhan\\Desktop\\5.0_CoreTesting\\5.0_CoreTesting\\5.0_CoreTesting\\5.0_CoreTesting\\5.0_CoreTesting\\CoreTesting.csproj",
-        "packagesPath": "C:\\Users\\v-olzhan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\v-olzhan\\Desktop\\5.0_CoreTesting\\5.0_CoreTesting\\5.0_CoreTesting\\5.0_CoreTesting\\5.0_CoreTesting\\obj\\",
+        "projectPath": "D:\\Winforms_App\\Winforms_Accessibility_App_5.0\\CoreTesting.csproj",
+        "packagesPath": "C:\\Users\\v-zhgl\\.nuget\\packages\\",
+        "outputPath": "D:\\Winforms_App\\Winforms_Accessibility_App_5.0\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\v-olzhan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\v-zhgl\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-rc.1.20371.1\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-preview.8.20373.19\\RuntimeIdentifierGraph.json"
         }
       }
     }

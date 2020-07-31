@@ -63,5 +63,11 @@ namespace CoreTesting
             ContainerControls containerControl = new ContainerControls();
             containerControl.Show();
         }
+
+        private void button9_Click(object sender, EventArgs e)
+        {
+            Binding_Data binding_Data = new Binding_Data();
+            binding_Data.Show();
+        }
     }
 }
