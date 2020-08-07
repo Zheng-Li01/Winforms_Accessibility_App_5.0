@@ -45,8 +45,6 @@
             this.treeView1 = new System.Windows.Forms.TreeView();
             this.label3 = new System.Windows.Forms.Label();
             this.listView1 = new System.Windows.Forms.ListView();
-            this.label4 = new System.Windows.Forms.Label();
-            this.checkedListBox1 = new System.Windows.Forms.CheckedListBox();
             this.label5 = new System.Windows.Forms.Label();
             this.listBox1 = new System.Windows.Forms.ListBox();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
@@ -247,33 +245,12 @@
             this.listView1.UseCompatibleStateImageBehavior = false;
             this.listView1.View = System.Windows.Forms.View.Details;
             // 
-            // label4
-            // 
-            this.label4.AccessibleDescription = "L4";
-            this.label4.AccessibleName = "L4";
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(418, 225);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(91, 15);
-            this.label4.TabIndex = 20;
-            this.label4.Text = "CheckedListBox";
-            // 
-            // checkedListBox1
-            // 
-            this.checkedListBox1.AccessibleDescription = "CLB1";
-            this.checkedListBox1.AccessibleName = "CLB1";
-            this.checkedListBox1.FormattingEnabled = true;
-            this.checkedListBox1.Location = new System.Drawing.Point(405, 249);
-            this.checkedListBox1.Name = "checkedListBox1";
-            this.checkedListBox1.Size = new System.Drawing.Size(120, 94);
-            this.checkedListBox1.TabIndex = 21;
-            // 
             // label5
             // 
             this.label5.AccessibleDescription = "L5";
             this.label5.AccessibleName = "L5";
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(597, 225);
+            this.label5.Location = new System.Drawing.Point(476, 225);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(45, 15);
             this.label5.TabIndex = 22;
@@ -285,7 +262,7 @@
             this.listBox1.AccessibleName = "LB5";
             this.listBox1.FormattingEnabled = true;
             this.listBox1.ItemHeight = 15;
-            this.listBox1.Location = new System.Drawing.Point(563, 249);
+            this.listBox1.Location = new System.Drawing.Point(453, 249);
             this.listBox1.Name = "listBox1";
             this.listBox1.Size = new System.Drawing.Size(120, 94);
             this.listBox1.TabIndex = 23;
@@ -297,8 +274,6 @@
             this.ClientSize = new System.Drawing.Size(785, 383);
             this.Controls.Add(this.listBox1);
             this.Controls.Add(this.label5);
-            this.Controls.Add(this.checkedListBox1);
-            this.Controls.Add(this.label4);
             this.Controls.Add(this.listView1);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.treeView1);
@@ -306,7 +281,7 @@
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.dataGridView1);
             this.Name = "Binding_Data";
-            this.Text = "+";
+            this.Text = "BindingDataForControls";
             this.Load += new System.EventHandler(this.Binding_Data_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.panel1.ResumeLayout(false);
@@ -336,8 +311,6 @@
         private System.Windows.Forms.TreeView treeView1;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.ListView listView1;
-        private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.CheckedListBox checkedListBox1;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.ListBox listBox1;
     }

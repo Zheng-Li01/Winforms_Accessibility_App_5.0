@@ -13,13 +13,14 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Winforms_App\\Winforms_Accessibility_App_5.0\\CoreTesting.csproj",
+      "projectUniqueName": "D:\\5.0App\\Winforms_Accessibility_App_5.0\\CoreTesting.csproj",
       "projectName": "CoreTesting",
-      "projectPath": "D:\\Winforms_App\\Winforms_Accessibility_App_5.0\\CoreTesting.csproj",
+      "projectPath": "D:\\5.0App\\Winforms_Accessibility_App_5.0\\CoreTesting.csproj",
       "packagesPath": "C:\\Users\\v-zhgl\\.nuget\\packages\\",
-      "outputPath": "D:\\Winforms_App\\Winforms_Accessibility_App_5.0\\obj\\",
+      "outputPath": "D:\\5.0App\\Winforms_Accessibility_App_5.0\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
+        "D:\\AccessibilityApp\\winforms\\NuGet.Config",
         "C:\\Users\\v-zhgl\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -27,8 +28,11 @@
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-eng/nuget/v3/index.json": {},
+        "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet-tools/nuget/v3/index.json": {},
+        "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet5-transport/nuget/v3/index.json": {},
+        "https://pkgs.dev.azure.com/dnceng/public/_packaging/dotnet5/nuget/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
@@ -61,7 +65,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-preview.8.20373.19\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "D:\\AccessibilityApp\\winforms\\.dotnet\\sdk\\5.0.100-preview.6.20310.4\\RuntimeIdentifierGraph.json"
       }
     }
   }

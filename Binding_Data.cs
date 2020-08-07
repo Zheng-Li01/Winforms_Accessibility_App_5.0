@@ -15,7 +15,6 @@ namespace CoreTesting
     {
         List<Student> studentA = new List<Student>();
         List<Student> studentB = new List<Student>();
-        List<Student> studentC = new List<Student>();
         public Binding_Data()
         {
             InitializeComponent();
@@ -29,17 +28,14 @@ namespace CoreTesting
             {
                 studentA.Add(new Student(i, "Name 1" + i, "Male"));
                 studentB.Add(new Student(i * 2, "Name 11" + i * 2, "Female"));
-                studentC.Add(new Student(i * 3, "Name 12" + i * 3, "Male"));
             }
 
             // Binding Data For ListBox & ComboBox & CheckedListBox controls by using DadSource property
             listBox1.DataSource = studentA;
             comboBox1.DataSource = studentB;
-            checkedListBox1.DataSource = studentC;
 
             listBox1.DisplayMember = "StudentName";
             comboBox1.DisplayMember = "StudentName";
-            checkedListBox1.DisplayMember = "StudentName";
 
             // Binding Data For DataGridView control by using DadSource property
             dataGridView1.DataSource = new List<Student>

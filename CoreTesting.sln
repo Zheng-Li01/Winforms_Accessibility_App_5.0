@@ -5,6 +5,12 @@ VisualStudioVersion = 16.0.30323.161
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreTesting", "CoreTesting.csproj", "{4110F71C-2883-47D0-92FB-0C7EC5AE5FE3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrameworkTesting", "..\FrameworkTesting\FrameworkTesting.csproj", "{2D77982C-C19E-44D6-98BD-4959D3C2C04D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp20", "C:\Users\v-zhgl\Desktop\WindowsFormsApp20\WindowsFormsApp20\WindowsFormsApp20.csproj", "{5D2E25A6-6D1D-4755-AE6F-7EEDAAFEC243}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreTestingListBox", "..\CoreTestingListBox\CoreTestingListBox.csproj", "{156D1225-CDD0-4BAD-BB45-849E5DAF5A36}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{4110F71C-2883-47D0-92FB-0C7EC5AE5FE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4110F71C-2883-47D0-92FB-0C7EC5AE5FE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4110F71C-2883-47D0-92FB-0C7EC5AE5FE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D77982C-C19E-44D6-98BD-4959D3C2C04D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D77982C-C19E-44D6-98BD-4959D3C2C04D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D77982C-C19E-44D6-98BD-4959D3C2C04D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D77982C-C19E-44D6-98BD-4959D3C2C04D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D2E25A6-6D1D-4755-AE6F-7EEDAAFEC243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D2E25A6-6D1D-4755-AE6F-7EEDAAFEC243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D2E25A6-6D1D-4755-AE6F-7EEDAAFEC243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D2E25A6-6D1D-4755-AE6F-7EEDAAFEC243}.Release|Any CPU.Build.0 = Release|Any CPU
+		{156D1225-CDD0-4BAD-BB45-849E5DAF5A36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{156D1225-CDD0-4BAD-BB45-849E5DAF5A36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{156D1225-CDD0-4BAD-BB45-849E5DAF5A36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{156D1225-CDD0-4BAD-BB45-849E5DAF5A36}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
