@@ -28,6 +28,7 @@ namespace CoreTesting
       Student_habit = student_habit;
       Student_Count = student_Count;
       Lucky_Number = Lucky_number;
+
     }
     public int StudentNo { get; set; }
     public string StudentName { get; set; }
