@@ -3,7 +3,7 @@
     "tfm": "net5.0",
     "framework": {
       "name": "Microsoft.WindowsDesktop.App",
-      "version": "5.0.0-rc.1.20404.1"
+      "version": "5.0.0-rc.1.20405.1"
     },
     "additionalProbingPaths": [
       "C:\\Users\\v-zhgl\\.dotnet\\store\\|arch|\\|tfm|",

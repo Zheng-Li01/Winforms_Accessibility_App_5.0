@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bN8u+yRG3gdgMZXXh+/fAqBR3DyAMfO9bHb5RBUqzp0oQbRWvln6o3iWqRHx5Bhjc5ch5GQLXVus1aP5Xn9hjg==",
+  "dgSpecHash": "ZrKjc+KiIyhn4UofqpJ2eGDCF/O8uR/KxioxyBoMz8tgLQ286m3tQCWENFP1XujSSrzBtRg5O7XM98LPwIlo6w==",
   "success": true,
-  "projectFilePath": "D:\\5.0App\\Winforms_Accessibility_App_5.0\\CoreTesting.csproj",
+  "projectFilePath": "D:\\App\\Winforms_Accessibility_App_5.0\\CoreTesting.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
