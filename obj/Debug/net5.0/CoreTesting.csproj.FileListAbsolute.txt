@@ -231,13 +231,11 @@ D:\App\Winforms_Accessibility_App_5.0\bin\Debug\net5.0\CoreTesting.runtimeconfig
 D:\App\Winforms_Accessibility_App_5.0\bin\Debug\net5.0\CoreTesting.dll
 D:\App\Winforms_Accessibility_App_5.0\bin\Debug\net5.0\ref\CoreTesting.dll
 D:\App\Winforms_Accessibility_App_5.0\bin\Debug\net5.0\CoreTesting.pdb
-D:\App\Winforms_Accessibility_App_5.0\obj\Debug\net5.0\CoreTesting.csprojAssemblyReference.cache
 D:\App\Winforms_Accessibility_App_5.0\obj\Debug\net5.0\CoreTesting.Binding_Data.resources
 D:\App\Winforms_Accessibility_App_5.0\obj\Debug\net5.0\CoreTesting.CommonControl1.resources
 D:\App\Winforms_Accessibility_App_5.0\obj\Debug\net5.0\CoreTesting.CommonControl2.resources
 D:\App\Winforms_Accessibility_App_5.0\obj\Debug\net5.0\CoreTesting.ContainerControls.resources
 D:\App\Winforms_Accessibility_App_5.0\obj\Debug\net5.0\CoreTesting.DataControls.resources
-D:\App\Winforms_Accessibility_App_5.0\obj\Debug\net5.0\CoreTesting.DialogControls.resources
 D:\App\Winforms_Accessibility_App_5.0\obj\Debug\net5.0\CoreTesting.Main.resources
 D:\App\Winforms_Accessibility_App_5.0\obj\Debug\net5.0\CoreTesting.MenuForm.resources
 D:\App\Winforms_Accessibility_App_5.0\obj\Debug\net5.0\CoreTesting.Menu_Toolbars_controls.resources
@@ -253,3 +251,4 @@ D:\App\Winforms_Accessibility_App_5.0\obj\Debug\net5.0\CoreTesting.dll
 D:\App\Winforms_Accessibility_App_5.0\obj\Debug\net5.0\ref\CoreTesting.dll
 D:\App\Winforms_Accessibility_App_5.0\obj\Debug\net5.0\CoreTesting.pdb
 D:\App\Winforms_Accessibility_App_5.0\obj\Debug\net5.0\CoreTesting.genruntimeconfig.cache
+D:\App\Winforms_Accessibility_App_5.0\obj\Debug\net5.0\CoreTesting.DialogsTesting.resources

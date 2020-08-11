@@ -36,8 +36,8 @@ namespace CoreTesting
 
         private void Button4_Click(object sender, EventArgs e)
         {
-            DialogControls dialogsTesting = new DialogControls();
-            dialogsTesting.Show();
+        DialogsTesting dialogsTesting = new DialogsTesting();
+        dialogsTesting.Show();
         }
 
         private void Button5_Click(object sender, EventArgs e)
