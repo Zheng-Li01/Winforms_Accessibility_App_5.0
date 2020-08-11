@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\App\\Winforms_Accessibility_App_5.0\\CoreTesting.csproj": {}
+    "D:\\App2\\Winforms_Accessibility_App_5.0\\CoreTesting.csproj": {}
   },
   "projects": {
-    "D:\\App\\Winforms_Accessibility_App_5.0\\CoreTesting.csproj": {
+    "D:\\App2\\Winforms_Accessibility_App_5.0\\CoreTesting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\App\\Winforms_Accessibility_App_5.0\\CoreTesting.csproj",
+        "projectUniqueName": "D:\\App2\\Winforms_Accessibility_App_5.0\\CoreTesting.csproj",
         "projectName": "CoreTesting",
-        "projectPath": "D:\\App\\Winforms_Accessibility_App_5.0\\CoreTesting.csproj",
+        "projectPath": "D:\\App2\\Winforms_Accessibility_App_5.0\\CoreTesting.csproj",
         "packagesPath": "C:\\Users\\v-zhgl\\.nuget\\packages\\",
-        "outputPath": "D:\\App\\Winforms_Accessibility_App_5.0\\obj\\",
+        "outputPath": "D:\\App2\\Winforms_Accessibility_App_5.0\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\v-zhgl\\AppData\\Roaming\\NuGet\\NuGet.Config",
