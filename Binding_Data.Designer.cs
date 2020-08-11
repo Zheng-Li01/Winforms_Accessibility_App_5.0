@@ -168,6 +168,7 @@
       this.richTextBox1.Size = new System.Drawing.Size(151, 85);
       this.richTextBox1.TabIndex = 9;
       this.richTextBox1.Text = "RichTestBox";
+      this.richTextBox1.BackColor = System.Drawing.SystemColors.Window;
       // 
       // checkBox1
       // 
