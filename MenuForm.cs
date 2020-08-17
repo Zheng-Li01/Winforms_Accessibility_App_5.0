@@ -8,22 +8,23 @@ using System.Windows.Forms;
 
 namespace CoreTesting
 {
-    public partial class MenuForm : Form
+  public partial class MenuForm : Form
+  {
+    public MenuForm()
     {
-        public MenuForm()
-        {
-            InitializeComponent();
-        }
-        private void Button1_Click(object sender, EventArgs e)
-        {
-            Menu_Toolbars_controls stripControls = new Menu_Toolbars_controls();
-            stripControls.Show();
-        }
-
-        private void Button2_Click(object sender, EventArgs e)
-        {
-            ToolStripContainer toolStripContainer = new ToolStripContainer();
-            toolStripContainer.Show();
-        }
+      InitializeComponent();
     }
+
+    private void Button1_Click(object sender, EventArgs e)
+    {
+      StripControls stripControls = new StripControls();
+      stripControls.Show();
+    }
+
+    private void Button2_Click(object sender, EventArgs e)
+    {
+      ToolStripContainer toolStripContainer = new ToolStripContainer();
+      toolStripContainer.Show();
+    }
+  }
 }

@@ -8,7 +8,7 @@
     <Compile Update="CommonControl2.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="ContainerControls.cs">
+    <Compile Update="ContainersTesting.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="DataControls.cs">
@@ -23,10 +23,10 @@
     <Compile Update="MenuForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Menu_Toolbars_controls.cs">
+    <Compile Update="StripControls.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="PrintingControls.cs">
+    <Compile Update="PrintingTesting.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="RemainingControls.cs">

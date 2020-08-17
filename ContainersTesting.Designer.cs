@@ -1,6 +1,6 @@
 ﻿namespace CoreTesting
 {
-    partial class ContainerControls
+    partial class ContainersTesting
     {
         /// <summary>
         /// Required designer variable.

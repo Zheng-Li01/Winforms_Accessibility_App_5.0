@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\App2\\Winforms_Accessibility_App_5.0\\CoreTesting.csproj",
+      "projectUniqueName": "C:\\Users\\v-zhgl\\source\\repos\\Winforms_Accessibility_App_5.0\\CoreTesting.csproj",
       "projectName": "CoreTesting",
-      "projectPath": "D:\\App2\\Winforms_Accessibility_App_5.0\\CoreTesting.csproj",
+      "projectPath": "C:\\Users\\v-zhgl\\source\\repos\\Winforms_Accessibility_App_5.0\\CoreTesting.csproj",
       "packagesPath": "C:\\Users\\v-zhgl\\.nuget\\packages\\",
-      "outputPath": "D:\\App2\\Winforms_Accessibility_App_5.0\\obj\\",
+      "outputPath": "C:\\Users\\v-zhgl\\source\\repos\\Winforms_Accessibility_App_5.0\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\v-zhgl\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-rc.1.20407.13\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100-rc.1.20411.10\\RuntimeIdentifierGraph.json"
       }
     }
   }

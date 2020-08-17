@@ -8,9 +8,9 @@ using System.Windows.Forms;
 
 namespace CoreTesting
 {
-    public partial class ContainerControls : Form
+    public partial class ContainersTesting : Form
     {
-        public ContainerControls()
+        public ContainersTesting()
         {
             InitializeComponent();
         }

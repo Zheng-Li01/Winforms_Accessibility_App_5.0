@@ -8,11 +8,11 @@ using System.Windows.Forms;
 
 namespace CoreTesting
 {
-    public partial class Menu_Toolbars_controls : Form
+  public partial class StripControls : Form
+  {
+    public StripControls()
     {
-        public Menu_Toolbars_controls()
-        {
-            InitializeComponent();
-        }
+      InitializeComponent();
     }
+  }
 }
